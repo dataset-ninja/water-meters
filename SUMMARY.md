@@ -1,4 +1,4 @@
-**Water Meters** is a dataset for instance segmentation tasks. It is used in the industrial industry.
+**Water Meters** is a dataset for instance segmentation tasks. It is applicable or relevant across various domains.
 
 The dataset consists of 1244 images with 1244 labeled objects belonging to 1 single class (*water meter data*).
 

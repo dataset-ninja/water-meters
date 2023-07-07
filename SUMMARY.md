@@ -6,4 +6,4 @@ Each image in the Water Meters dataset has pixel-level instance segmentation ann
 
 Here is the visualized example grid with annotations:
 
-[Dataset classes](https://github.com/dataset-ninja/water-meters/main/visualizations/horizontal_grid.webm)
+[Dataset classes](https://github.com/dataset-ninja/water-meters/main/raw/visualizations/horizontal_grid.webm)

@@ -14,7 +14,7 @@ from dataset_tools.templates import (
 # * Before uploading to instance #
 ##################################
 PROJECT_NAME: str = "Water Meters"
-PROJECT_NAME_FULL: Optional[str] = "Water Meters"
+PROJECT_NAME_FULL: Optional[str] = "Water Meters Dataset"
 
 ##################################
 # * After uploading to instance ##

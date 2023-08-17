@@ -1,6 +1,6 @@
 Dataset **Water Meters** can be downloaded in [Supervisely format](https://developer.supervisely.com/api-references/supervisely-annotation-json-format):
 
- [Download](https://assets.supervisely.com/supervisely-supervisely-assets-public/teams_storage/w/1/ew/fP0GSxiab5X3C1W1ItVCaeBNeU9hU5S5crIbF0XWt5cSkw0mlRug19styxEZfuD1ElosiPigOY9ySFr3dGMl0TYDjgXvOMOnyvV8PiH8XLcWkzP6YdNSowkLIdHK.tar)
+ [Download](https://assets.supervisely.com/supervisely-supervisely-assets-public/teams_storage/p/1/qR/UNVlVwsv7PdgObtz89FgNJ5sza8ye0EjIrbzjmRrPGUtp2QMWqPKEY69hMFxQ9dwtCPoDDYf0Q4zFC8zNvRLJTgvQiNmGeaYSeAKestzrt9qPidKrAU5MKMzDw7J.tar)
 
 As an alternative, it can be downloaded with *dataset-tools* package:
 ``` bash

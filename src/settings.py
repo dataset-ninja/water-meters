@@ -53,7 +53,8 @@ CLASS2COLOR: Optional[Dict[str, List[str]]] = None
 
 PAPER: Optional[str] = None
 CITATION_URL: Optional[str] = None
-AUTHORS: Optional[List[str]] = ["Kucev Roman"]
+AUTHORS: Optional[List[str]] = ["Roman Kucev"]
+AUTHORS_CONTACTS: Optional[List[str]] = ["https://github.com/Kucev", "https://www.linkedin.com/in/kucev/"]
 
 ORGANIZATION_NAME: Optional[Union[str, List[str]]] = "TrainingData.pro, UAE"
 ORGANIZATION_URL: Optional[
@@ -103,6 +104,7 @@ def get_settings():
     settings["paper"] = PAPER
     settings["citation_url"] = CITATION_URL
     settings["authors"] = AUTHORS
+    settings["authors_contacts"] = AUTHORS_CONTACTS
     settings["organization_name"] = ORGANIZATION_NAME
     settings["organization_url"] = ORGANIZATION_URL
     settings["slytagsplit"] = SLYTAGSPLIT

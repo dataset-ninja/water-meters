@@ -1,3 +1,1 @@
-**Water Meters** **Dataset** contains a diverse collection of water meter images along with corresponding segmentation masks and OCR labels for the meter readings.
-
-Note, that this is just an example of the data. See homepage for details.
+The **Water Meters Dataset** comprises a wide array of images depicting water meters, complete with associated segmentation masks and OCR labels for meter readings. The data was collected using [Yandex.Toloka](https://toloka.ai/tolokers/). Please note that this description is just a sample of the data. For comprehensive information, refer to the dataset's homepage.

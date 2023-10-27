@@ -52,6 +52,8 @@ CLASS2COLOR: Optional[Dict[str, List[str]]] = None
 # If specific colors for classes are needed, fill this dict (e.g. {"class1": [255, 0, 0], "class2": [0, 255, 0]})
 
 PAPER: Optional[str] = None
+BLOGPOST: Optional[str] = "https://habr.com/ru/companies/ods/articles/469633/"
+
 CITATION_URL: Optional[str] = None
 AUTHORS: Optional[List[str]] = ["Roman Kucev"]
 AUTHORS_CONTACTS: Optional[List[str]] = ["https://github.com/Kucev", "https://www.linkedin.com/in/kucev/"]
@@ -102,6 +104,7 @@ def get_settings():
     settings["download_original_url"] = DOWNLOAD_ORIGINAL_URL
     settings["class2color"] = CLASS2COLOR
     settings["paper"] = PAPER
+    settings["blogpost"] = BLOGPOST
     settings["citation_url"] = CITATION_URL
     settings["authors"] = AUTHORS
     settings["authors_contacts"] = AUTHORS_CONTACTS

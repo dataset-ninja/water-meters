@@ -104,7 +104,7 @@ def get_settings():
     settings["download_original_url"] = DOWNLOAD_ORIGINAL_URL
     settings["class2color"] = CLASS2COLOR
     settings["paper"] = PAPER
-    settings["blogpost"] = BLOGPOST
+    settings["blog"] = BLOGPOST
     settings["citation_url"] = CITATION_URL
     settings["authors"] = AUTHORS
     settings["authors_contacts"] = AUTHORS_CONTACTS
